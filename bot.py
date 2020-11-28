@@ -4,6 +4,7 @@ import time
 import asyncio
 import datetime
 import random
+import os
 
 client = discord.Client()
 
